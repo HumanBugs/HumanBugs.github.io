@@ -188,8 +188,17 @@ I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to Sept
 - [CET-4](https://cet.neea.edu.cn/): **538**
 - [CET-6](https://cet.neea.edu.cn/): Not Released Yet
 
+## For LLMs/ Agents
+
+[Markdown File](https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/_pages/about.md)
+
+Profile.json
+
+Projects.json
 
 ## Acknowledgements & Privacy
+This website is still under constructing. Sorry for the missing or outdated information. Last Update: July 29th, 2026.
+
 This homepage was forked & modified from [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
 
 Privacy Policy of [Google Analytics](https://support.google.com/analytics/answer/7318509?hl=en).
