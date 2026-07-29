@@ -184,7 +184,7 @@ I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to Sept
 - Python for data analysis and visualization
 - MATLAB and R fundamentals
 - Machine learning fundamentals through self-study
-- LaTeX for academic writing
+- LaTeX for academic writing and presenting
 
 
 <span class='anchor' id='certificates'></span>
