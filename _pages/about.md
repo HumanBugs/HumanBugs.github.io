@@ -25,7 +25,7 @@ I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to Sept
 <div style="border: 1px solid #d9d9d9; border-radius: 8px; padding: 18px 24px; margin: 8px 0; background-color: #fafafa; font-family: Arial, sans-serif; line-height: 1.4;">
   <div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px;">
     <div>
-      <strong>University of Nottingham Ningbo China</strong>, BSc in Statistics (2+2)
+      <strong>University of Nottingham (Ningbo China & UK)</strong>, BSc in Statistics (2+2)
     </div>
     <div style="white-space: nowrap; text-align: right;">
       Aug 2024 – Jun 2028
