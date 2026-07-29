@@ -43,6 +43,14 @@ I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to Sept
 ## Experience
 
 <details>
+  <summary><strong>Research</strong></summary>
+
+  <p><strong>Shenzhen Bay Laboratory (SZBL) - SMART</strong><br>
+  <em>June - September 2026</em></p>
+
+</details>
+
+<details>
   <summary><strong>On-campus Internship</strong></summary>
 
   <p><strong>UNNC Academic Services Office, Graduation Project Intern</strong><br>
