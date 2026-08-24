@@ -200,7 +200,7 @@ I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to Sept
 
 [Markdown File](https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/_pages/about.md)
 
-Profile.json
+[Profile.json](https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Profile.json)
 
 Projects.json
 

@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "profile_type": "personal_academic_profile",
+  "language": "en",
+  "last_updated": "2026-07-29",
+  "source": {
+    "title": "Rui Yin - About",
+    "url": "https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/_pages/about.md",
+    "note": "This profile is derived from the website's about page. Dates and current-status statements should be interpreted as of last_updated."
+  },
+  "person": {
+    "name": "Rui Yin",
+    "occupation": "Undergraduate student",
+    "field_of_study": "Statistics",
+    "academic_interests": [
+      "Data analysis",
+      "Machine learning"
+    ],
+    "summary": "Rui Yin is a Year 3 undergraduate student in the University of Nottingham's 2+2 BSc Statistics programme, studying across the Ningbo China and UK campuses. Rui is also a visiting student at Shenzhen Bay Laboratory from June to September 2026."
+  },
+  "education": [
+    {
+      "institution": "University of Nottingham",
+      "campuses": [
+        "University of Nottingham Ningbo China",
+        "University of Nottingham UK"
+      ],
+      "degree": "BSc",
+      "subject": "Statistics",
+      "programme": "2+2",
+      "start_date": "2024-08",
+      "expected_end_date": "2028-06",
+      "status_as_of_last_updated": "Year 3; Years 3 and 4 are to be completed at the University of Nottingham UK",
+      "transcript_url": "https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Transcript.pdf"
+    }
+  ],
+  "experience": {
+    "research": [
+      {
+        "organization": "Shenzhen Bay Laboratory",
+        "unit": "SMART",
+        "role": "Visiting student",
+        "start_date": "2026-06",
+        "end_date": "2026-09"
+      }
+    ],
+    "on_campus_internships": [
+      {
+        "organization": "University of Nottingham Ningbo China Academic Services Office",
+        "role": "Graduation Project Intern",
+        "start_date": "2025-06",
+        "end_date": "2025-06",
+        "responsibilities": [
+          "Assisted with preparing, verifying, and organizing graduating students' records, including grades, awards, and archival documents.",
+          "Supported coordination for graduation-related activities and certificate distribution."
+        ]
+      },
+      {
+        "organization": "University of Nottingham Ningbo China IT Service",
+        "role": "Desk Technician",
+        "start_date": "2025-09",
+        "end_date": "2025-12",
+        "responsibilities": [
+          "Provided in-person, telephone, and email support for IT-related issues raised by students and staff.",
+          "Helped resolve routine service requests while maintaining clear communication with users."
+        ]
+      },
+      {
+        "organization": "University of Nottingham Ningbo China Alumni",
+        "role": "Data Intern",
+        "start_date": "2026-01",
+        "end_date": "2026-05",
+        "responsibilities": [
+          "Analyzed, cleaned, visualized, and organized alumni donation lists and related datasets according to database requirements.",
+          "Translated content for the official WeChat public account, university website news stories, and the alumni monthly newsletter."
+        ]
+      }
+    ],
+    "off_campus_internships": [
+      {
+        "organization": "China Merchants Bank",
+        "location": "Keqiao, Shaoxing",
+        "start_date": "2025-07",
+        "end_date": "2025-07",
+        "responsibilities": [
+          "Assisted with fund allocation analysis and market trend research."
+        ]
+      }
+    ]
+  },
+  "projects_and_activities": [
+    {
+      "name": "Learning Technologies VR Session",
+      "start_date": "2025-02",
+      "end_date": "2025-05",
+      "highlights": [
+        "Built a Unity-based AR project with book cover recognition and interactive book introduction displays."
+      ],
+      "technologies": [
+        "Unity",
+        "Augmented reality"
+      ]
+    },
+    {
+      "name": "Data Scholarship",
+      "start_date": "2025-09",
+      "end_date": "2025-12",
+      "highlights": [
+        "Conducted data analysis and visualization with Python.",
+        "Received the Best Performer award in the final presentation."
+      ],
+      "technologies": [
+        "Python",
+        "Data analysis",
+        "Data visualization"
+      ]
+    },
+    {
+      "name": "The Mathematical Contest in Modeling",
+      "abbreviation": "MCM",
+      "date": "2026-02",
+      "team_number": "2628509",
+      "problem": "Problem A",
+      "result": "Honorable Mention"
+    }
+  ],
+  "scholarships_and_honors": [
+    {
+      "title": "2024-2025 Outstanding Member in the Communist Youth League of China",
+      "awarded_by": "University of Nottingham Ningbo China",
+      "date": "2025-04"
+    },
+    {
+      "title": "2024-2025 University Academic Excellence Scholarship - Dean's Scholarship",
+      "awarded_by": "University of Nottingham Ningbo China",
+      "date": "2025-12"
+    },
+    {
+      "title": "Autumn 2025 NAA Scholarship - Best Performer in the course Data Analysis",
+      "awarded_by": "University of Nottingham Ningbo China",
+      "date": "2025-12"
+    }
+  ],
+  "leadership_and_service": [
+    {
+      "organization": "Nuomi Tuantuan, Communist Youth League of China of Science and Engineering, University of Nottingham Ningbo China",
+      "role": "Head of Youth Service Department",
+      "responsibilities": [
+        "Helped organize student service activities and department coordination work."
+      ],
+      "selected_activities": [
+        {
+          "name": "Harmony of Music and Science",
+          "date": "2024-12",
+          "contributions": [
+            "Assisted with venue guidance, audience flow, and stage support during the event."
+          ]
+        },
+        {
+          "name": "Yinzhou Central Sunshine Station",
+          "dates": [
+            "2024-11",
+            "2025-11"
+          ],
+          "contributions": [
+            "Organized and joined volunteer service activities for disabled people."
+          ]
+        }
+      ]
+    },
+    {
+      "organization": "2025 Ningbo Open",
+      "role": "Player Banquet Interpreter Volunteer",
+      "date": "2025-10-12",
+      "contributions": [
+        "Provided English-language communication support for international players.",
+        "Answered questions and explained banquet procedures and venue directions."
+      ]
+    },
+    {
+      "organization": "food isla",
+      "affiliation": "A project group under the Fufeng Project, University of Nottingham Ningbo China",
+      "role": "Work group member",
+      "focus": "Food-themed workshops connecting global cultures and local urban communities in Ningbo",
+      "selected_activities": [
+        {
+          "name": "Tsampa, Ghee and Pocha Workshop",
+          "date": "2025-04",
+          "contributions": [
+            "Contributed to proposal writing, material procurement, and activity engagement."
+          ]
+        },
+        {
+          "name": "Popup Kitchen at Spring Meetup Festival",
+          "date": "2025-05",
+          "contributions": [
+            "Supported venue setup and stall decoration.",
+            "Helped operate the food stall, contributing to RMB 1,972 in revenue and more than 100 customer visits."
+          ]
+        },
+        {
+          "name": "University of Nottingham Ningbo China Environmental Sustainability Week",
+          "date": "2025",
+          "role": "Work group member"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "context": "Data analysis and visualization"
+    },
+    {
+      "name": "MATLAB",
+      "level": "Fundamentals"
+    },
+    {
+      "name": "R",
+      "level": "Fundamentals"
+    },
+    {
+      "name": "Machine learning",
+      "level": "Fundamentals through self-study"
+    },
+    {
+      "name": "LaTeX",
+      "context": "Academic writing and presenting"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "National Computer Rank Examination Level 2",
+      "issuer_url": "https://ncre.neea.edu.cn/",
+      "subjects": [
+        {
+          "name": "Python Programming",
+          "result": "Excellent"
+        },
+        {
+          "name": "Advanced MS Office Applications",
+          "result": "Pass"
+        }
+      ]
+    },
+    {
+      "name": "College English Test Band 4",
+      "abbreviation": "CET-4",
+      "score": 538,
+      "issuer_url": "https://cet.neea.edu.cn/"
+    },
+    {
+      "name": "College English Test Band 6",
+      "abbreviation": "CET-6",
+      "score": 537,
+      "issuer_url": "https://cet.neea.edu.cn/"
+    }
+  ],
+  "resources": {
+    "resume_url": "https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Resume.pdf",
+    "resume_last_updated": "2026-04-07",
+    "transcript_url": "https://github.com/HumanBugs/humanbugs.github.io/raw/main/files/Transcript.pdf",
+    "about_markdown_url": "https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/_pages/about.md",
+    "profile_json_url": "https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Profile.json"
+  }
+}
