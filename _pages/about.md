@@ -194,7 +194,7 @@ I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to Sept
   - Python Programming: **Excellent**
   - Advanced MS Office Applications: **Pass**
 - [CET-4](https://cet.neea.edu.cn/): **538**
-- [CET-6](https://cet.neea.edu.cn/): Not Released Yet
+- [CET-6](https://cet.neea.edu.cn/): **537**
 
 ## For LLMs/ Agents
 
