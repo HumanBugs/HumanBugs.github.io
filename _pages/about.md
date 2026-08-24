@@ -16,7 +16,7 @@ As a 2+2 student, I will finish my Year 3 and Year 4 in UNUK (University of Nott
 
 I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to September 2026.
 
-[📃 Download my resume here](https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/raw/main/files/Resume.pdf). *Last Update: April 7th, 2026.*
+[📃 Download my resume here](https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Resume.pdf). *Last Update: April 7th, 2026.*
 
 <span class='anchor' id='education'></span>
 
@@ -33,7 +33,7 @@ I am a visiting student in Shenzhen Bay Laboratory (SZBL) from June 2026 to Sept
   </div>
 
   <div style="margin-top: 8px;">
-    <a href="https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/raw/main/files/Transcript.pdf" target="_blank" style="text-decoration: underline;">
+    <a href="https://raw.githubusercontent.com/HumanBugs/humanbugs.github.io/refs/heads/main/files/Transcript.pdf" target="_blank" style="text-decoration: underline;">
       📃 Transcript
     </a>
   </div>
